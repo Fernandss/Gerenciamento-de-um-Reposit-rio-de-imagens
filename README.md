@@ -1,2 +1,2 @@
-# Gerenciamento-de-um-Reposit-rio-de-imagens
+# Gerenciamento-de-um-Repositrio-de-imagens
 Repositorio Git de imagens
